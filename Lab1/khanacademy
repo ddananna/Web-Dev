@@ -1,0 +1,332 @@
+1 TASK
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Whispers of the Wind</h1>
+        <p>
+            The wind speaks softly through the trees,<br>
+            Carrying secrets on a gentle breeze.<br>
+            It whispers tales from far away,<br>
+            Of distant lands and skies of gray.<br><br>
+
+            With every gust, it tells a song,<br>
+            A melody that's sweet and strong.<br>
+            The wind, a voice without a name,<br>
+            Forever wild, yet never tame.
+        </p>
+    </body>
+</html>
+
+
+2 TASK
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a Poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Whispers of the Wind</h1>
+        <p>
+            The wind speaks softly through the trees,<br>
+            Carrying secrets on a gentle breeze.<br>
+            It whispers tales from far away,<br>
+            Of distant lands and skies of gray.<br><br>
+
+            With every gust, it tells a song,<br>
+            A melody that's sweet and strong.<br>
+            The wind, a voice without a name,<br>
+            Forever wild, yet never tame.
+        </p>
+    </body>
+</html>
+
+
+3 TASK
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <ol>
+            <li>GPA 4.0</li>
+            <li>Travel to Japan</li>
+            <li>Write a poem</li>
+            <li>Build a personal website</li>
+            <li>Volunteer at an animal shelter</li>
+        </ol>
+    </body>
+</html>
+
+
+4 TASK
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p>
+        <img src="https://example.com/paris-sunset.jpg" alt="Sunset over Paris" width="600" height="400">
+
+        <p>And animals like...</p>
+        <img src="https://example.com/tiger.jpg" alt="Tiger in the wild" width="600" height="400">
+
+        <p>And eat food like...</p>
+        <img src="https://example.com/sushi.jpg" alt="Delicious sushi" width="600" height="400">
+        
+    </body>
+</html>
+
+
+5 TASK
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        
+        <!-- Adding an image of a peacock -->
+        <img src="https://example.com/peacock.jpg" alt="A colorful peacock with vibrant feathers" width="600" height="400">
+        
+        <p>The <em>peacock</em> is awesome because <strong>it has some of the most vibrant and beautiful feathers in the animal kingdom</strong>. These feathers are used in courtship displays, where the male fans them out to attract a mate. The peacock's bright, iridescent tail feathers can have shades of blue, green, and gold, making it a truly magnificent creature.</p>
+        
+    </body>
+</html>
+
+
+
+6 TASK
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Seasonal ids</title>
+        <style>
+            #summer {
+                color: #FFD700;
+            }
+
+            #winter {
+                color: #00BFFF;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1>Olaf's favorite seasons</h1>
+        
+        <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle.</p>
+
+    </body>
+</html>
+
+
+7 TASK
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Apples and bananas classes</title>
+        <style>
+            .apples {
+                color: red;
+            }
+
+            .bananas {
+                color: yellow;
+            }
+        </style>
+    </head>
+    <body>
+
+    <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
+    
+    <p>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    </p>
+
+    </body>
+</html>
+
+
+PROJECT
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Bora Bora</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+        }
+
+        header {
+            background-color: #ff6347;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+
+        h2 {
+            color: #4682b4;
+        }
+
+        .destination-img {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+
+        .content {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+        }
+
+        .content div {
+            width: 30%;
+        }
+
+        .content h3 {
+            color: #2e8b57;
+            font-size: 1.5em;
+        }
+
+        .list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .list li {
+            background-color: #87cefa;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 1.1em;
+        }
+
+        .cta {
+            background-color: #32cd32;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 1.2em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ff6347;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore Bora Bora</h1>
+        <p>Paradise Awaits You</p>
+    </header>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Bora_Bora_The_Mount_Otemanu.jpg" alt="Bora Bora" class="destination-img">
+
+    <div class="content">
+        <div>
+            <h3>What to See</h3>
+            <ul class="list">
+                <li>Mount Otemanu - A majestic volcanic mountain</li>
+                <li>Lagoon and Coral Gardens - Crystal-clear waters</li>
+                <li>Matira Beach - White sand and turquoise waters</li>
+                <li>Shark and Ray Snorkeling - Get up close with marine life</li>
+            </ul>
+        </div>
+
+        <div>
+            <h3>Where to Go</h3>
+            <ul class="list">
+                <li>InterContinental Bora Bora Resort - Stay in a luxurious overwater bungalow</li>
+                <li>Le Meridien Bora Bora - Famous for its beautiful beach bungalows</li>
+                <li>Coral Gardens - A must-see snorkeling spot</li>
+                <li>The Lagoon Restaurant - Taste delicious local seafood</li>
+            </ul>
+        </div>
+
+        <div>
+            <h3>Why Visit?</h3>
+            <p>Bora Bora is the ultimate tropical destination with stunning beaches, vibrant coral reefs, and lush green mountains. Whether you're seeking adventure or relaxation, this island offers the perfect mix of both. Explore the crystal-clear lagoons, enjoy a romantic sunset over the water, and immerse yourself in the natural beauty of this paradise.</p>
+        </div>
+    </div>
+
+    <div class="cta">
+        <p>Book your trip to Bora Bora today and experience the vacation of a lifetime!</p>
+    </div>
+
+    <footer>
+        <p>© 2025 Bora Bora Travel. All rights reserved.</p>
+    </footer>
+</body>
+</html>
