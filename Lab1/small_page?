@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Данара не поняла что надо делать</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #4CAF50;
+        }
+        .section p {
+            font-size: 16px;
+            color: #555;
+        }
+        .photo img {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .profile-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .profile-info div {
+            width: 48%;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Личная жизнь Данары</h1>
+    </header>
+
+    <div class="container">
+        <div class="section profile-info">
+            <div>
+                <h2>Основная информация</h2>
+                <p><strong>Возраст:</strong> 19 лет</p>
+                <p><strong>Рост:</strong> 180 см</p>
+                <p><strong>Курс:</strong> 2 курс</p>
+                <p><strong>ГПА:</strong> 3.8</p>
+            </div>
+            <div class="photo">
+                <h2>Моя фотография</h2>
+                <img src="https://via.placeholder.com/300" alt="Фото Данары">
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Проект по программированию</h2>
+            <p>Я увлекаюсь программированием и участвую в различных проектах. На данный момент изучаю web-разработку и создаю сайты. Стремлюсь развиваться в этой сфере и мечтаю работать в IT-компании.</p>
+        </div>
+
+        <div class="section">
+            <h2>Волейбол</h2>
+            <p>В свободное время я активно занимаюсь волейболом. Играю в команде университета, участвуем в местных турнирах и соревнованиях. Спорт помогает мне поддерживать физическую форму и развивать командный дух.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Контактные данные: danara@email.com</p>
+    </footer>
+</body>
+</html>
