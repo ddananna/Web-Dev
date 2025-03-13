@@ -1,0 +1,53 @@
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h2 {
+  color: #007bff;
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 15px;
+  padding: 20px;
+  justify-items: center;
+}
+
+.photo-item {
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.photo-item:hover {
+  transform: scale(1.05);
+}
+
+img {
+  width: 100%;
+  max-width: 120px;
+  border-radius: 5px;
+}
+
+p {
+  font-size: 14px;
+  color: #333;
+  margin-top: 5px;
+}
+
+ng-template {
+  font-size: 18px;
+  color: #777;
+}
