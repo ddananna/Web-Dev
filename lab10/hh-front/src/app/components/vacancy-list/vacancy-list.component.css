@@ -1,0 +1,68 @@
+/* Заголовок страницы вакансий */
+.vacancy-header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  .vacancy-header h1 {
+    color: #0066cc;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .add-vacancy-link {
+    color: #007acc;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid #007acc;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  
+  .add-vacancy-link:hover {
+    background-color: #007acc;
+    color: white;
+  }
+  
+  /* Стили для списка вакансий */
+  .vacancy-list {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .vacancy-item {
+    background-color: #e6f0ff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .vacancy-link {
+    color: #005bb5;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .vacancy-link:hover {
+    color: white;
+    background-color: #007acc;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,84 @@
+/* Общие стили для страницы компании */
+.company-details {
+  background-color: #f1faff;
+  color: #333;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.company-name {
+  color: #0066cc;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.company-description {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+h3 {
+  color: #0066cc;
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+/* Стили для списка вакансий */
+.vacancy-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.vacancy-item {
+  background-color: #e6f0ff;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+}
+
+.vacancy-title {
+  font-weight: bold;
+  color: #005bb5;
+}
+
+.vacancy-salary {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.vacancy-link {
+  color: #007acc;
+  text-decoration: none;
+  border: 1px solid #007acc;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+.vacancy-link:hover {
+  background-color: #007acc;
+  color: white;
+}
+
+/* Стили для сообщения, если вакансий нет */
+.no-vacancies {
+  color: #999;
+  font-size: 16px;
+  font-style: italic;
+}
